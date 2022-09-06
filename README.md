@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cagicac
-- 👀 I’m like Minecraft Java Edition Ans Bedrock Edition
+- 👀 I’m like Minecraft Java Edition And Bedrock Edition
 - 🌱 I’m currently learning Code with Mcreator
 
 <!---
